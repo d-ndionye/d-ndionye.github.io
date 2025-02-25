@@ -2,4 +2,4 @@
 title: Schematic Design
 ---
 
-Things to discuss
+<img src="../subfolder/Schematic.png">
