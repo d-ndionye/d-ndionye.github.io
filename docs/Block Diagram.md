@@ -2,4 +2,4 @@
 title: Block Diagram
 ---
 
-<img src="./subfolder/BlockDiagram.png
+<img src="./subfolder/BlockDiagram.png">
