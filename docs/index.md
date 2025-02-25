@@ -1,21 +1,14 @@
 ---
-title: Welcome
-tags:
-- tag1
-- tag2
----
-## Hello, my name is DIvine 
+ Welcome
+
+## Welcome to the home page for all of Divine's Individual assignments for EGR314 
 
 * List item 1
 * List item 2
 
-name   | description
+Assignment   | Link
 -------|------------
-Divine | fun
-Ben    | silly
+Block Diagram | Link
+Component selection    | link
+Schematic Design | Link
 
-### Here is a sub heading 
-
-1. step 1
-1. step 2
-1. step 3
