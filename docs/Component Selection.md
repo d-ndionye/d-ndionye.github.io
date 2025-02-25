@@ -2,4 +2,4 @@
 title: Component Selection 
 ---
 
-Things to discuss
+<img src="../ComponentSelection.png">
