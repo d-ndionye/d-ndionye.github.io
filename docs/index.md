@@ -5,7 +5,7 @@
 
 Assignment   | Link
 -------|------------
-Block Diagram | Link
+Block Diagram | (https://d-ndionye.github.io/Block%20Diagram/)
 Component selection    | link
 Schematic Design | Link
 
