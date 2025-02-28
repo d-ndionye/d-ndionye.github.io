@@ -1,5 +1,5 @@
 ---
 title: Component Selection 
 ---
-
-<img src="../ComponentSelection.png">
+## Componenet Selection
+<img src="./ComponentSelection.png">
