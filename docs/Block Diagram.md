@@ -1,5 +1,5 @@
 ---
-title: Block Diagram
+Title: Block Diagram
 ---
 
-<img src="../subfolder/BlockDiagram.png">
+<img src="./subfolder/BlockDiagram.png">
