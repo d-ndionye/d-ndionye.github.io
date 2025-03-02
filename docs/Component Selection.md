@@ -2,4 +2,4 @@
 title: Component Selection 
 ---
 ## Componenet Selection
-<img src="embedded-systems-design/ComponentSelection.png">
+<img src="d-ndionye.github.io/embedded-systems-design/ComponentSelection.png">
