@@ -2,4 +2,4 @@
 title: Component Selection 
 ---
 ## Componenet Selection
-<img src="/docs/ComponentSelection.png">
+<img src="/../ComponentSelection.png">
