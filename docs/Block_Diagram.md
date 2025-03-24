@@ -1,6 +1,7 @@
 # Block Diagram
 
-
+<img src="../Block_Diagram.png">
+![](../subfolder/block_diagram.png)
 ## Communication Flow
 
 ```text
