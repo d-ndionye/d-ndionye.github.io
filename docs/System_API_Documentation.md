@@ -18,7 +18,7 @@ The Message ID table defines the unique identifiers for system members and their
 
 | Member        | System         | ID  | Address |
 |---------------|----------------|-----|---------|
-| Divine Ndionyenma   | Wifi           | 1   | 0x01    |
+| Divine    | Wifi           | 1   | 0x01    |
 | Jake        | Human Interface| 2   | 0x02    |
 | Jacob         | Accuator    | 3   | 0x03    |
 | Andrey           | Sensor    | 4   | 0x04    |
