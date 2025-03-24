@@ -7,8 +7,8 @@ This API documentation provides details about the message structure, status code
 - Message ID
 - Status
 - Message Types
-- Temperature Sensor (Message Type 1)
-- Fan Control (Message Type 2)
+- Distance Sensor (Message Type 1)
+- Motor Control (Message Type 2)
 
 ---
 
@@ -18,10 +18,10 @@ The Message ID table defines the unique identifiers for system members and their
 
 | Member        | System         | ID  | Address |
 |---------------|----------------|-----|---------|
-| Cade Clonts   | Wifi           | 1   | 0x01    |
-| Jahmel        | Human Interface| 2   | 0x02    |
-| Tyler         | Temp Sensor    | 3   | 0x03    |
-| Dan           | Fan Control    | 4   | 0x04    |
+| Divine Ndionyenma   | Wifi           | 1   | 0x01    |
+| Jake        | Human Interface| 2   | 0x02    |
+| Jacob         | Accuator    | 3   | 0x03    |
+| Andrey           | Sensor    | 4   | 0x04    |
 | Broadcast     | All            | 88  | 0x58    |
 
 ---
@@ -43,8 +43,8 @@ The Message Types table categorizes the types of messages and their associated s
 
 | Category          | Status/Code                        | Address |
 |-------------------|------------------------------------|---------|
-| Temp Data         | -40 to 155                         | 0x10    |
-| Fan Control       | 0-125                              | 0x20    |
+| Accuator Data         | -40 to 155                         | 0x10    |
+| Motor  Control       | 0-125                              | 0x20    |
 | System Status     | Normal (0x00), Error (0x01)        | 0x30    |
 | System Initialize | Pending (0x00), Complete (0x01)    | 0x40    |
 | Error             | Error Code                         | 0x99    |
