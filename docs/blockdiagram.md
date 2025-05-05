@@ -10,4 +10,17 @@
 ## Diagram Summary
 
 The ESP32 module acts as the central controller, interfacing with the MQTT server wirelessly and handling local inputs/outputs via GPIO and UART. The 3.3V regulated power ensures safe operation of the ESP32 and peripherals.
+ <h2 id="feedback">Feedback</h2>
+      <ul>
+        <li>Transitioned from using two UARTs for individual communication and MQTT server integration to a single UART to simplify the code and streamline communication.</li>
+        <li>Incorporated additional switches to support more debugging features using LEDs. Originally, the setup included just one push button and one LED; the updated configuration allows for up to two LEDs and no more than three switches..</li>
+        <li>Modified the daisy chain setup to meet updated requirements—specifically, using channel 2 for board-to-board communication, with pin 8 assigned to GND and pin 1 designated for Power (VIN).</li>
+        <li>Adjusted the power input from 9V to 5V to accommodate a new power source.</li>
+      </ul>
 
+<h2 id="decision-making">Decision Making Process</h2>
+      <p>
+        These improvements were driven by both the feedback I received and the opportunity to simplify the system using newer solutions. Removing the second UART eliminated unnecessary steps, making the programming process much more straightforward. With a single UART, I could manage communication with other boards and the MQTT server using one interface. I also enhanced the debugging process by adding more LEDs and push buttons, providing greater flexibility when testing message transmission and verifying whether messages were successfully sent, received, or failed.
+
+
+    </div>
