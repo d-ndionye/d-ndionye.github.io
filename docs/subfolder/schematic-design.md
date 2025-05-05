@@ -2,4 +2,4 @@
 title: Schematic Design
 ---
 
-<img src="../subfolder/updatedschematic.png">
+<img src="../images/updatedschematic.png">
