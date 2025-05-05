@@ -2,12 +2,10 @@
 
 <img src="../Block_Diagram.png">
 
-## Communication Flow
 
 
 ---
 
-## Diagram Summary
 
 ---
 
