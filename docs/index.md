@@ -14,7 +14,9 @@ I am responsible for the WiFi subsystem
 
 Assignment   | Link
 -------|------------
-Block Diagram | [Link](https://d-ndionye.github.io/Block%20Diagram/)
-Component selection    | [link](https://d-ndionye.github.io/Component%20Selection/)
-Schematic Design | [Link](https://d-ndionye.github.io/subfolder/Schematic%20Design/)
+Block Diagram | [Link](https://d-ndionye.github.io/blockdiagram/)
+Component selection    | [link](https://d-ndionye.github.io/component.selection/)
+Schematic Design | [Link](https://d-ndionye.github.io/schematic.design/)
+API | [Link](https://d-ndionye.github.io/System_API/)
+
 
