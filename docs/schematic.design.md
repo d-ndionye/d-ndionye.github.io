@@ -1,1 +1,1 @@
-<img src="../updatedschematic.png">
+<img src="./updatedschematic.png">
