@@ -537,14 +537,6 @@
 <p><a class="glightbox" href="../Block_Diagram.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../Block_Diagram.png"></a>
 <a class="glightbox" href="../subfolder/block_diagram.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../subfolder/block_diagram.png" /></a></p>
 <h2 id="communication-flow">Communication Flow</h2>
-<div class="highlight"><pre><span></span><code>Phone/Mobile Device
-        ⇅ (BLE/WiFi)
-     MQTT ASU Server
-        ⇅ (WiFi)
-      ESP32 WiFi Module
-        ↔ Peripherals (LED, Push Button)
-        ↔ UART IN/OUT via 2x4 Header
-</code></pre></div>
 <hr />
 <h2 id="diagram-summary">Diagram Summary</h2>
 <p>The ESP32 module acts as the central controller, interfacing with the MQTT server wirelessly and handling local inputs/outputs via GPIO and UART. The 3.3V regulated power ensures safe operation of the ESP32 and peripherals.</p>
