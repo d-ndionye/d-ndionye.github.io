@@ -1,8 +1,7 @@
 # Block Diagram
 
-<img src="../Block_Diagram.png">
 
-
+![Block Diagram](./javascripts/block_diagram.png)
 
 ---
 
