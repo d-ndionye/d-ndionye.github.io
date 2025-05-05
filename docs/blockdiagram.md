@@ -4,15 +4,6 @@
 ![](../subfolder/block_diagram.png)
 ## Communication Flow
 
-```text
-Phone/Mobile Device
-        ⇅ (BLE/WiFi)
-     MQTT ASU Server
-        ⇅ (WiFi)
-      ESP32 WiFi Module
-        ↔ Peripherals (LED, Push Button)
-        ↔ UART IN/OUT via 2x4 Header
-```
 
 ---
 
