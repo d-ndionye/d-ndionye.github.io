@@ -1,1 +1,5 @@
-<img src="./updatedschematic.png">
+---
+title: Schematic Design
+---
+
+<img src="../images/updatedschematic.png">
