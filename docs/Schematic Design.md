@@ -5,7 +5,7 @@ title: Schematic Design
 
 ![Schematic](./javascripts/updatedschematic.png)
 
-![Schematic](./javascripts/schematic.pdf)
+![Link](file:///C:/Users/cndio/OneDrive/Documents/schematic.pdf)
 
 ---
  **PCB Design**
@@ -13,4 +13,4 @@ title: Schematic Design
 
 ![PCB](./javascripts/pcb.png)
 
-![PCB](./javascripts/pcb.pdf)
+![Link](file:///C:/Users/cndio/OneDrive/Documents/pcb.pdf)
